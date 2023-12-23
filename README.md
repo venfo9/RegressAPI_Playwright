@@ -1,6 +1,6 @@
 # API Users Testing
 
-This repository contains automated tests for the API users functionality. The tests are written using the Playwright test library.
+This repository contains automated tests for the API users functionality (https://reqres.in/). The tests are written using the Playwright framework.
 
 ## Files
 
